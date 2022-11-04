@@ -1,0 +1,5 @@
+body {background-color: aliceblue;}
+.Nawigacja {
+    display: flex;
+    gap: 20px;
+}
